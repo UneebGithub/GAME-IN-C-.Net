@@ -1,0 +1,10 @@
+C:\Users\UNEEB\source\repos\GAMESINC#\GAMESINC#\bin\Debug\GAMESINC#.exe.config
+C:\Users\UNEEB\source\repos\GAMESINC#\GAMESINC#\bin\Debug\GAMESINC#.exe
+C:\Users\UNEEB\source\repos\GAMESINC#\GAMESINC#\bin\Debug\GAMESINC#.pdb
+C:\Users\UNEEB\source\repos\GAMESINC#\GAMESINC#\obj\Debug\GAMESINC#.csproj.AssemblyReference.cache
+C:\Users\UNEEB\source\repos\GAMESINC#\GAMESINC#\obj\Debug\GAMESINC_.Form1.resources
+C:\Users\UNEEB\source\repos\GAMESINC#\GAMESINC#\obj\Debug\GAMESINC_.Properties.Resources.resources
+C:\Users\UNEEB\source\repos\GAMESINC#\GAMESINC#\obj\Debug\GAMESINC#.csproj.GenerateResource.cache
+C:\Users\UNEEB\source\repos\GAMESINC#\GAMESINC#\obj\Debug\GAMESINC#.csproj.CoreCompileInputs.cache
+C:\Users\UNEEB\source\repos\GAMESINC#\GAMESINC#\obj\Debug\GAMESINC#.exe
+C:\Users\UNEEB\source\repos\GAMESINC#\GAMESINC#\obj\Debug\GAMESINC#.pdb
